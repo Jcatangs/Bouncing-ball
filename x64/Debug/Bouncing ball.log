@@ -1,0 +1,5 @@
+﻿  ball.cpp
+C:\Users\jrcat\source\repos\Bouncing ball\ball.cpp(72,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Bouncing ball.cpp
+C:\Users\jrcat\source\repos\Bouncing ball\Bouncing ball.cpp(44,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
